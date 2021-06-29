@@ -1,7 +1,7 @@
 # This was forked from sameersbn/docker-apt-cacher-ng
 # Only minor changes have been made to enable automated updates
 # to the base OS via Renovate
-FROM ubuntu:focal
+FROM ubuntu:focal-20210609
 
 LABEL maintainer="alex@smith.geek.nz"
 
