@@ -1,6 +1,6 @@
 FROM ubuntu:focal
 
-LABEL maintainer="sameer@damagehead.com"
+LABEL maintainer="alex@smith.geek.nz"
 
 ENV APT_CACHER_NG_VERSION=3.3 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
